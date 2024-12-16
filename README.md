@@ -1,6 +1,6 @@
  # Blinkit Grocery Insights Dashboard (Power BI)
 
-Description:
+Project Overview:-
 This project involves a Power BI dashboard designed for BlinkIT, showcasing critical business metrics for grocery sales in a visually intuitive manner. The dashboard provides a comprehensive analysis of total sales, average sales, product ratings, outlet types, and item categories. It helps stakeholders make data-driven decisions to optimize performance across various outlets and item types.
 
 Key Features:-
