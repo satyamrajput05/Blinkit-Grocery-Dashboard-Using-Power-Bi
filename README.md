@@ -31,5 +31,7 @@ Power BI Desktop for creating an interactive and dynamic dashboard.
 
 Use Case:
 This dashboard is ideal for business leaders at BlinkIT to monitor overall performance, analyze trends, and identify areas for improvement. By categorizing data effectively, it enables better resource allocation and decision-making.
-Developer:
-Satyam Singh
+
+
+# Developer:-
+# Satyam Singh
